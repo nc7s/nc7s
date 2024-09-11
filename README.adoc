@@ -1,0 +1,10 @@
+= Blair Noctis
+
+I write Rust and Python. Sometimes fiddle with front end, but don't like the
+"ecosystem".
+
+Debian Developer.
+
+My open source projects are or will be moved to
+https://codeberg.org/ncts[Codeberg]. This account is left for when GitHub is
+unavoidable or strictly necessary (I hope not).
